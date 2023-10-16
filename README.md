@@ -140,7 +140,7 @@ product variation that had the least reviews was Walnut Finish.<br><br>
 product did not continue to work.<br><br>
 * The sentiment analysis indicated that the reviews were mainly positive about the products.<br><br>
 
-**Please click [here]( https://github.com/eric5412/Sales-Quantity-Prediction-Based-on-Advertising-Media-Investment/blob/main/Sales-Quantity-Prediction-Based-on-Advertising-Media-Investment.md) for the entire project.**
+**Please click [here](https://github.com/eric5412/Sentiment-Analysis-of-Product-Reviews/blob/main/Sentiment%20Analysis%20of%20Product%20Reviews.ipynb) for the entire project.**
 
 <br><br>
 <br><br>
