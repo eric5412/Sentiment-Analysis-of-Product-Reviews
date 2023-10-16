@@ -14,6 +14,5 @@ to discover what the customers liked from the products, and to learn about what 
 may have wanted improvements on. Analyzing customer sentiment is important,
 because it allows a company to build upon business strategies and improve the experience of 
 their customers.
-**Data Source:** Advertising dataset from [An Introduction to
-Statistical
-Learning](https://www.statlearning.com/resources-first-edition).
+
+
