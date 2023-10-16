@@ -37,13 +37,13 @@ The overall sentiment of the reviews was positive.
 
 * **9.08%** of the reviews were labeled as negative ((221 / 2,435) x 100 = 9.08%).<br><br>
 
-<br><br>
+<br>
 
 ![A bar chart of product variation distribution](/images/4.png)
 
 There was a significant difference in the number of reviews between the most frequently reviewed product variation and the least frequently reviewed product variation.
 
-<br><br>
+<br>
 
 ## Natural Language Processing:
 
@@ -55,7 +55,7 @@ A word cloud was created for the reviews that had a rating of 4 stars or 5 stars
 
 ![A word cloud of frequently used words in positive reviews](/images/5.png)
 
-<br><br>
+<br>
 
 Positive reviews that contained the word "love" were examined:
 
@@ -86,7 +86,7 @@ A word cloud was created for the reviews that had a rating of 1 star or 2 stars 
 
 ![A word cloud of frequently used words in negative reviews](/images/6.png)
 
-<br><br>
+<br>
 
 Negative reviews that contained the word "work" were examined:
 
