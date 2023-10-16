@@ -1,6 +1,6 @@
 Sentiment Analysis of Product Reviews
 ================
-### Introduction:
+## Introduction:
 The scope of this project was to analyze Amazon Alexa product data to gain insights from reviews provided by customers. The analysis was done using Python.
 
 * **Data Source:** Amazon Alexa Reviews dataset on [Kaggle](https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews/#).
@@ -16,7 +16,7 @@ their customers.
 
 <br>
 
-### Data Analysis:
+## Data Analysis:
 
 ![A bar chart of rating distribution](/images/1.png)
 
@@ -42,7 +42,7 @@ There was a significant difference in the number of reviews between the most fre
 
 <br>
 
-### Natural Language Processing:
+## Natural Language Processing:
 
 Upon inspecting the product reviews, some of the text included punctuation marks and some text included emojis. The text of the reviews was first preprocessed to remove any punctuation marks, to make the text lowercase, to remove emojis, and to remove stop words. Stop words are common words that do not contribute to the sentiment of the review.
 
@@ -119,7 +119,7 @@ The values in the sentiment column range from -1 (most negative) to 1 (most posi
 
 <br>
 
-### Findings:
+## Findings:
 * The most frequent rating for the product reviews was 5 stars.<br><br>
 * The overall customer sentiment was positive, 90.92% of the reviews were labeled as 
 positive and 9.08% of the reviews were labeled as negative.<br><br>
@@ -130,5 +130,3 @@ product did not continue to work.<br><br>
 * The sentiment analysis indicated that the reviews were mainly positive about the products.<br><br>
 <br><br>
 <br><br>
-
-
