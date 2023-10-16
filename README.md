@@ -128,7 +128,7 @@ Summary statistics were then calculated for the sentiment column.
 
 The lowest sentiment value was -0.9839 and the highest sentiment value was 0.9946. The mean and the median values of the sentiment column were greater than 0.50, indicating that the overall sentiment of the reviews was positive.
 
-<br><br>
+<br>
 
 ## Findings:
 * The most frequent rating for the product reviews was 5 stars.<br><br>
@@ -139,5 +139,8 @@ product variation that had the least reviews was Walnut Finish.<br><br>
 * Customers commented that they liked the sound quality, but some reviews mentioned that the 
 product did not continue to work.<br><br>
 * The sentiment analysis indicated that the reviews were mainly positive about the products.<br><br>
+
+**Please click [here]( https://github.com/eric5412/Sales-Quantity-Prediction-Based-on-Advertising-Media-Investment/blob/main/Sales-Quantity-Prediction-Based-on-Advertising-Media-Investment.md) for the entire project.**
+
 <br><br>
 <br><br>
