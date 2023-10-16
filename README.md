@@ -33,9 +33,9 @@ More than half of the reviews had 5 star ratings.
 ![A bar chart of feedback distribution](/images/3.png)
 
 The overall sentiment of the reviews was positive.
-* **90.92%** of the reviews were labeled as positive ((2214 / 2435) x 100 = 90.92%).<br><br>
+* **90.92%** of the reviews were labeled as positive ((2,214 / 2,435) x 100 = 90.92%).<br>
 
-* **9.08%** of the reviews were labeled as negative ((221 / 2435) x 100 = 9.08%).<br><br>
+* **9.08%** of the reviews were labeled as negative ((221 / 2,435) x 100 = 9.08%).<br><br>
 
 <br>
 
