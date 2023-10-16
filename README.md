@@ -126,6 +126,8 @@ Summary statistics were then calculated for the sentiment column.
 
 ![Customer sentiment statistics](/images/8.png)
 
+The lowest sentiment value was -0.9839 and the highest sentiment value was 0.9946. The mean and the median values of the sentiment column were greater than 0.50, indicating that the overall sentiment of the reviews was positive.
+
 <br><br>
 
 ## Findings:
