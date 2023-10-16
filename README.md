@@ -120,13 +120,13 @@ The values in the sentiment column range from -1 (most negative) to 1 (most posi
 <br>
 
 ## Findings:
-* The most frequent rating for the product reviews was 5 stars.<br>
+* The most frequent rating for the product reviews was 5 stars.<br><br>
 * The overall customer sentiment was positive, 90.92% of the reviews were labeled as 
-positive and 9.08% of the reviews were labeled as negative.<br>
+positive and 9.08% of the reviews were labeled as negative.<br><br>
 * The product variation that had the most reviews was Configuration: Fire TV Stick and the 
-product variation that had the least reviews was Walnut Finish.<br>
+product variation that had the least reviews was Walnut Finish.<br><br>
 * Customers commented that they liked the sound quality, but some reviews mentioned that the 
-product did not continue to work.<br>
+product did not continue to work.<br><br>
 * The sentiment analysis indicated that the reviews were mainly positive about the products.<br><br>
 <br><br>
 <br><br>
