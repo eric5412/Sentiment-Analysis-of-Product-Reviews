@@ -20,7 +20,7 @@ their customers.
 
 ![A bar chart of rating distribution](/images/1.png)
 
-Most of the product reviews gave a rating of 5 stars. This suggests that the overall customer sentiment was positive.
+Most of the product reviews had a rating of 5 stars. This suggests that the overall customer sentiment was positive.
 
 <br><br>
 
